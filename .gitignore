@@ -1,3 +1,4 @@
+.claude/
 zig-out/
 zig-cache/
 .zig-cache/
